@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+#main {
+  width: 626px;
+  margin: auto;
+}
+
+#main img {
+  margin-top: 64px;
+
+}
+
+h1 {
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
+  margin: 32px auto 0px;
+
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span {
+  color: #EE24FF;
+}
+
+p {
+  color: #828282;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+}
+
+#destino, #flutuar{
+  width: 540px;
+  margin: 16px auto 0px;
+}
+
+#ofertas {
+  width: 626px;
+  margin: 32px auto 0px;
+}
+
+p span, a{
+  color: #3F3D56;
+  font-family: 'Open Sans';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#line {
+  width: 391px;
+  margin: 64px auto 16px;
+  border: 1px #ECEFF2 solid;
+
+}
+
+#wave {
+  width: 100%;
+  margin: 40px auto 0px;
+}
